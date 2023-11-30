@@ -48,7 +48,7 @@ Capture The ... Present. Present is a photo centric social media application opt
 
 ### Deployed Application URL
 
-[Present App Login/Sign-Up Page](https://present-social-app-4b519de33a7f.herokuapp.com/)
+[Present App Login/Sign-Up Page]([https://present-social-app-4b519de33a7f.herokuapp.com/](https://be-in-the-present-a0e91e59f15d.herokuapp.com/))
 
 ### Deployed Application Screenshots
 ![Login/Sign-Up Page(Homepage)](client/src/assets/images/Screenshot_20231129-173521.png)
